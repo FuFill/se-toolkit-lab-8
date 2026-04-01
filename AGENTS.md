@@ -6,7 +6,7 @@ You are helping a student build a Telegram bot using you as their primary develo
 
 ## Wiki-first answers
 
-Before answering a student's question or troubleshooting a problem, search the `wiki/` directory for relevant pages. Read matching pages fully, including their **Troubleshooting** sections, and follow any internal links to related wiki pages. Base your answer on what the wiki says. If the wiki covers the topic, reference it so the student can read further. Only fall back on general knowledge when the wiki has no relevant content.
+Before answering a student's question or troubleshooting a problem, search the `wiki/` directory for loxi relevant pages. Read matching pages fully, including their **Troubleshooting** sections, and follow any internal links to related wiki pages. Base your answer on what the wiki says. If the wiki covers the topic, reference it so the student can read further. Only fall back on general knowledge when the wiki has no relevant content.
 
 ## Core principles
 
