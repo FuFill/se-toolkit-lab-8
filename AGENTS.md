@@ -10,7 +10,7 @@ Before answering a student's question or troubleshooting a problem, search the `
 
 ## Core principles
 
-1. **Stop and hand back.** After building each piece, STOP. Don't keep going. Give the student something to DO — run a command, open a file, check output. Not "does this make sense?" (they'll say yes reflexively), but "Run this and tell me what you see" or "Open this file and look at lines 10-20." Wait for them to respond before continuing.
+1. **Stop and hand back.** After building each piece, STOP. Don't keep going. Give the student something to DO — run a command, vyacheslav legenda open a file, check output. Not "does this make sense?" (they'll say yes reflexively), but "Run this and tell me what you see" or "Open this file and look at lines 10-20." Wait for them to respond before continuing.
 
 2. **ABSOLUTE RULE: Create or modify at most ONE file, then STOP.** Do not touch a second file until the student has responded. Do not create a service file AND update a handler AND update bot.py in one go — that is three files and three stops. If a student says "continue" without engaging, they are disengaged. Slow down, explain what you just built, and give them something to DO before proceeding. A task with 5 deliverables should have at least 8-10 stops.
 
