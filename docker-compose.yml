@@ -6,6 +6,7 @@ services:
         workspace: .
       args:
         REGISTRY_PREFIX_DOCKER_HUB: ${REGISTRY_PREFIX_DOCKER_HUB:-}
+      network: host
     restart: unless-stopped
     networks:
       - lms-network
@@ -186,6 +187,7 @@ services:
       context: ./qwen-code-api
       args:
         REGISTRY_PREFIX_DOCKER_HUB: ${REGISTRY_PREFIX_DOCKER_HUB:-}
+      network: host
     restart: unless-stopped
     networks:
       - lms-network
